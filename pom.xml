@@ -49,6 +49,12 @@
 			<email>magson@gmail.com</email>
 			<url>https://github.com/magson</url>
 		</developer>
+		<developer>
+			<id>rodrigo</id>
+			<name>Rodrigo</name>
+			<email>rodrigo@gmail.com</email>
+			<url>https://github.com/rodrigo</url>
+		</developer>
 	</developers>
 
 	<dependencies>
