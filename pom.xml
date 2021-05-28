@@ -43,6 +43,12 @@
 			<email>filosofisto@gmail.com</email>
 			<url>https://github.com/filosofisto</url>
 		</developer>
+		<developer>
+			<id>magson</id>
+			<name>Mister Magson</name>
+			<email>magson@gmail.com</email>
+			<url>https://github.com/magson</url>
+		</developer>
 	</developers>
 
 	<dependencies>
